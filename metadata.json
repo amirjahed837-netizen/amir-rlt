@@ -1,0 +1,6 @@
+{
+  "name": "RastNegar (راست‌نگار) - Windows RTL Engine & System Inspector",
+  "description": "Production-grade Windows RTL desktop utility and systems architecture workbench for Persian, Arabic, Hebrew, and Urdu. Features out-of-process Win32/RichEdit adapters, UI Automation, Bidi Unicode engine, and tray system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
